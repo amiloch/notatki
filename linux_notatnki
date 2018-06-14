@@ -1,0 +1,22 @@
+Linuks podstawowe komendy:
+===========================
+
+* who- sprawdzamy kto jest aktualnie zalogowany
+* whoami- sprawdzamy kim jesteśmy
+* su- zmieniamy się w innego użytkownika
+* chmod- zmieniamy parametry pliku rwx czytanie, pisanie, wykonyanie,
+* ls- pokazuje nam zawartość katalogu
+* pwd- pokazuje nam katalog w którym się znajdujemy
+* cd- zmieniamy katalog
+* rmdir- usuwamy katalog
+* mkdir- nowy katalog
+* cat bez podania źródła - edytowanie tekstu; cat nazwa_pliku pokazuje zawartosc pliku
+* rm- usuwamy plik(i)
+* mv- przenosimy plik lub zmieniamy jego nazwę 'mv zrodlo cel'
+* cp- kopiujemy plik 'cp zrodlo cel'
+* mvdir- przenosimy katalog lub zmieniamy jego nazwę
+* ps- pokazuje nam jakie procesy są aktualnie wykonywane
+* kill- "zabijamy" procesy
+* help- wyświetla nam wszystkie polecenia w Linuxie
+* man- pokazuje nam pomoc do programu
+* wc można dowiedzieć się (nie otwierając pliku w żadnym edytorze tekstowym) informacji na temat ilości bajtów, słów, znaków, linii, oraz rozmiarze najdłuższej linii. Postać polecenia wygląda następująco.
